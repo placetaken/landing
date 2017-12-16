@@ -1,0 +1,26 @@
+﻿body
+{
+	background-color: #808080;
+	font-size: 22px;
+	font-family: "Century Gothic";
+}
+
+h1 {
+
+	text-align: center;
+	color:red;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover{
+	font-size: 100px;
+	color: green;
+}
+
+div{
+	text-align: center;
+}
